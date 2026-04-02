@@ -1,0 +1,2 @@
+# ApexcifyTechnologys_Task2_Monthly_Sales_Analysis
+Second assignment of internship program
