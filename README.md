@@ -39,7 +39,7 @@ Make sure you have **Python 3.10+** and the following libraries installed:
 The following important data analysis concepts are used in this project:
 
 * **Data Handling:**
-  `read_csv()`, `DataFrame`, column selection (`["Month"]`, `["Sales($)"]`)
+  `read_csv()`, `DataFrame`
 
 * **Data Visualization:**
   `plot()`, `bar()`, `xlabel()`, `ylabel()`, `title()`, `xticks()`, `show()`
