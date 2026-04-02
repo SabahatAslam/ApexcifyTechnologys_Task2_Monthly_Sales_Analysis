@@ -11,7 +11,7 @@
 - `📁 Dataset (.csv`)
 
 You can view the ipynb file here in colab:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/your-repo/blob/main/my_notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SabahatAslam/ApexcifyTechnologys_Task2_Monthly_Sales_Analysis/blob/main/Monthly_Sales_Analysis.ipynb)
 
 ---
 
