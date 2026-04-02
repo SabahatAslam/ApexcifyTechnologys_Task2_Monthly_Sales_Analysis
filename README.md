@@ -18,7 +18,7 @@ You can view the ipynb file here in colab:
 ### 📝Customized Dataset
 
 The dataset contains **12 rows and 2 columns**. 
-To simulate real-world scenarios, **seasonal peaks and dips** were intentionally added (e.g., peak holiday sean and post holiday dip). This helps in learning seasonal fluctuations or marketing/promotion impacts for business-oriented data analysis.
+To simulate real-world scenarios, **seasonal peaks and dips** were intentionally added (e.g., peak holiday season and post holiday dip). This helps in learning seasonal fluctuations or marketing/promotion impacts for business-oriented data analysis.
 
 ---
 
@@ -38,12 +38,11 @@ Make sure you have **Python 3.10+** and the following libraries installed:
 ### 🔑 Key Concepts
 The following important data analysis concepts are used in this project:
 
-- **Data Handling:**
-  `DataFrame`, `isnull().sum()`, `fillna(0)`
-- **Statistical Analysis:**
-  `mean()`, `median()`, `mode()`, `min()`, `max()`, `round()`
-- **Visualization & Insights:**
-  `histplot()`, `corr()`, `sort()`
+* **Data Handling:**
+  `read_csv()`, `DataFrame`, column selection (`["Month"]`, `["Sales($)"]`)
+
+* **Data Visualization:**
+  `plot()`, `bar()`, `xlabel()`, `ylabel()`, `title()`, `xticks()`, `show()`
 
 ---
 ### ⚙️Project Objectives
