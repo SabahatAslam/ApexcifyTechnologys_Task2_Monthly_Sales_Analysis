@@ -77,7 +77,7 @@ pip install -r requirements.txt
 
 * Notebook -> Output inside cells
 * Script -> Output in terminal
-* HTML -> Open `Student_Grade_Analysis.html` in browser
+* HTML -> Open `Monthly_Sales_Analysis.html` in browser
   
 ---
 
